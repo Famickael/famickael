@@ -1,10 +1,3 @@
-
-<p align="right">
-  <a href="./README.fr.md">Français</a>
-  &nbsp;·&nbsp;
-  <a href="./README.md">English</a>
-</p>
-
 <p align="center">
   <img src="./assets/banner.svg" alt="Mickaël Fagot — Explore. Design. Build." width="100%" />
 </p>
@@ -24,6 +17,31 @@ This GitHub brings those two sides together. Not everything here is polished, an
 **Build** — Web projects, AI experiments, prototypes and the occasional idea that started as a weekend distraction.
 
 Some of my professional work can't be shared publicly. I'm interested in documenting the thinking, design decisions and lessons behind it, whenever possible.
+
+
+<details>
+  <summary>En français</summary>
+
+### Quelques mots sur moi
+
+Je suis Mickaël, psychosociologue de formation. Mon travail se situe à la croisée de l'innovation, du design et des sciences humaines.
+
+Je m'intéresse à la manière dont nous prenons des décisions, travaillons ensemble et interagissons avec les systèmes qui nous entourent.
+
+En dehors de mon activité professionnelle, j'aime aussi concevoir et développer mes propres projets numériques.
+
+### Explorer. Concevoir. Expérimenter.
+
+**Explorer** — Les comportements humains, les organisations et les transformations du travail.
+
+**Concevoir** — Des services, des interfaces et des expériences qui répondent à de vrais usages.
+
+**Expérimenter** — Le développement web, l'intelligence artificielle et les prototypes numériques.
+
+Tous mes projets ne sont pas publics, notamment certains travaux professionnels. J'essaie néanmoins de partager mes méthodes et mes apprentissages lorsque cela est possible.
+
+</details>
+
 
 ---
 
