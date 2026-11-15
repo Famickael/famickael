@@ -1,3 +1,10 @@
+
+<p align="right">
+  <a href="./README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="./README.md">English</a>
+</p>
+
 <p align="center">
   <img src="./assets/banner.svg" alt="Mickaël Fagot — Explore. Design. Build." width="100%" />
 </p>
@@ -16,13 +23,7 @@ This GitHub brings those two sides together. Not everything here is polished, an
 
 **Build** — Web projects, AI experiments, prototypes and the occasional idea that started as a weekend distraction.
 
-### A few projects
-
-- [Personal website](https://github.com/Famickael/personal_website) — My own space on the web.
-- [EVG roadbook](https://github.com/Famickael/roadbook-evg) — A small web project for organising a weekend together.
-- [Projection mariage](https://github.com/Famickael/projection-mariage) — A project developed for a wedding.
-
-Some work-related projects can't be shared publicly. Where possible, I'll document the methods, design decisions and lessons learned without disclosing confidential material.
+Some of my professional work can't be shared publicly. I'm interested in documenting the thinking, design decisions and lessons behind it, whenever possible.
 
 ---
 
