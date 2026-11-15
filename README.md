@@ -24,11 +24,7 @@ Some of my professional work can't be shared publicly. I'm interested in documen
 
 ### Quelques mots sur moi
 
-Je suis Mickaël, psychosociologue de formation. Mon travail se situe à la croisée de l'innovation, du design et des sciences humaines.
-
-Je m'intéresse à la manière dont nous prenons des décisions, travaillons ensemble et interagissons avec les systèmes qui nous entourent.
-
-En dehors de mon activité professionnelle, j'aime aussi concevoir et développer mes propres projets numériques.
+Je suis Mickaël, psychosociologue de formation. Mon travail se situe à la croisée de l'innovation, du design et des sciences humaines. Je m'intéresse à la manière dont nous prenons des décisions, travaillons ensemble et interagissons avec les systèmes qui nous entourent. En dehors de mon activité professionnelle, j'aime aussi concevoir et développer mes propres projets numériques.
 
 ### Explorer. Concevoir. Expérimenter.
 
